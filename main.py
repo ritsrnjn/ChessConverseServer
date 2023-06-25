@@ -7,7 +7,7 @@ app.register_blueprint(botplayer_api)
 
 @app.route('/')
 def index():
-    return 'Hello from Flask!'
+    return 'Testing if being auto updated!'
 
 
 app.run(host='0.0.0.0', port=81)
