@@ -1,0 +1,12 @@
+# add python gitignore files
+
+# add python gitignore files
+/venv
+/.venv
+/.env
+__pycache__/
+poetry.lock
+pyproject.toml
+.breakpoints
+.replit
+replit.nix
